@@ -1,0 +1,11 @@
+{
+    "name": "webapp",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "mqtt": "^1.14.1"
+    }
+  }
