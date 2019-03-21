@@ -55,7 +55,7 @@ function intervalFunc() {
   // Mimic the output of Redigate.
   var payload = {"d":
   {
-      "gwName":"NODEJS",
+      "gwName":"AZDEVSIM",
       "devName":"AGA3-1",
       "FlowRate":F,
       "Temperature":T,
